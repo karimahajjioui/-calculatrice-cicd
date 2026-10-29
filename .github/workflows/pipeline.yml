@@ -53,4 +53,3 @@ jobs:
           path: dist/
       - run: ls -l dist/
       - run: echo "Application déployée avec succès !"
-      
